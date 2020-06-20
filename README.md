@@ -10,3 +10,8 @@ Através da API https://viacep.com.br/
   - Bootstrap
   - Jquery
 
+## Visualização do site:
+![Alt Text](https://github.com/renatogual/Curso_Javascript/raw/screenshots/img/appcep.png)
+
+
+
