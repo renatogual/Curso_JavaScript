@@ -1,4 +1,4 @@
-# Curso_JavaScript
+# Site_Consulta_CEP
 Repositório para prática de desenvolvimento web com JavaScript do curso Desenvolvedor Full Stack Python da Digital Innovation One
 
 Foi desenvolvido uma aplicação simples para consulta de CEP
