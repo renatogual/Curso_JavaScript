@@ -1,9 +1,6 @@
-# Site_Consulta_CEP
-Repositório para prática de desenvolvimento web com JavaScript do curso Desenvolvedor Full Stack Python da Digital Innovation One
+# Site Consulta de CEP
 
-Foi desenvolvido uma aplicação simples para consulta de CEP
-
-Através da API https://viacep.com.br/
+Foi desenvolvido uma aplicação simples para consulta de CEP utilizando a API https://viacep.com.br/
 
 ## Ferramentas utilizadas :wrench: 
 
