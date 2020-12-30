@@ -1,6 +1,6 @@
 # Site Consulta de CEP
 
-Foi desenvolvido uma aplicação simples para consulta de CEP utilizando a API https://viacep.com.br/
+Foi desenvolvido uma aplicação simples para consulta de CEP utilizando a API [viacep](https://viacep.com.br/)
 
 ## Ferramentas utilizadas :wrench: 
 
