@@ -5,12 +5,14 @@ Foi desenvolvido uma aplicação simples para consulta de CEP
 
 Através da API https://viacep.com.br/
 
-## Utilização das bibliotecas:
+## Ferramentas utilizadas :wrench: 
 
-  - Bootstrap
-  - Jquery
+  - [Bootstrap](https://getbootstrap.com.br/)
+  - [Jquery](https://jquery.com/)
 
-## Visualização do site:
+## Pode ser visualizada no link abaixo :exclamation:
+ - [Consulta de cep](https://renatogual.github.io/consulta-cep/)
+ 
 ![Alt Text](https://github.com/renatogual/Curso_Javascript/raw/screenshots/img/appcep.png)
 
 
